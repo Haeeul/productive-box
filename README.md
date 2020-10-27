@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
 </p>
 <p align="center">
-   Are you an early 🐤 or a night 🦉?
+   Are you an early 🐤 or a night 🦉??
    <br/>
    When are you most productive during the day?
    <br/>
@@ -47,3 +47,4 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
 1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
+
